@@ -1,24 +1,30 @@
-Hi, I'm **Moises Michelow**, a dedicated backend engineer with a diverse background in Engineering, Mathematics, and Culinary Arts. After successfully establishing and running my own business in the food industry, I have decided to pursue my true passion for software development as a full-time developer.
+# Moises Michelow
 
-## Education & Academic Experience:
-* Studies in Engineering and Mathematics, complemented by valuable insights from the Culinary Arts field.
-* Proficient in a range of programming languages and tools, including C++, Java, MATLAB, Maple, R, Visual Basic, and mySQL.
-* Currently, I am fully immersed in mastering Python.
+## About Me
+I'm a Dev Engineer with a passion for innovative software solutions, particularly in the realm of Generative AI and full-stack development. My background in mathematics and engineering fuels my analytical approach to problem-solving. Currently, I'm leveraging cutting-edge AI technologies at RSM Chile to create impactful, cloud-based solutions for international clients.
 
-## Technical Expertise & Projects:
-* I thrive in backend development and have tackled various projects to showcase my skills. My GitHub profile hosts a collection of these projects, demonstrating my ability to solve complex problems and build efficient solutions.
-* My passion for coding and commitment to continuous learning are evident in my participation in coding challenges on platforms like LeetCode.
+My journey in tech is driven by a curiosity to explore the intersections of AI, data science, and software engineering. I'm always eager to tackle new challenges and contribute to projects that push the boundaries of what's possible with technology.
 
-## Language & Communication Skills:
-* Fluent in both English and Spanish (ES/EN spoken), I excel at effective communication and collaborative teamwork.
-  
-## Career Aspirations:
-* As a backend engineer, I aspire to contribute my diverse skill set and problem-solving abilities to a dynamic team, working on exciting projects that drive innovation and make a meaningful impact.
-* I am currently based in Chile but open to relocating for the right opportunity that aligns with my passion and career goals.
+## Current Focus
+- Architecting GenAI-powered systems for business automation
+- Developing cloud-based solutions using AWS and Azure
+- Exploring advanced applications of LangChain and OpenAI technologies
 
-## Let's Connect:
-* Reach out to me at [moises@michelow.cl](mailto:moises@michelow.cl) to discuss potential collaborations or career opportunities.
-* Let's connect on LinkedIn: [Moises Michelow](https://www.linkedin.com/in/moisesmichelow/). 
-* You can also find me on LeetCode:([mimichelow](https://leetcode.com/mimichelow/)).
+## Tech Stack
+- Languages: Python, Java, C++
+- Web Development: Flask, Django, JavaScript
+- AI/ML: GenAI, Machine Learning, LangChain
+- Data Analysis: Pandas, MySQL
+- Cloud Platforms: AWS, Azure
 
-Thank you for visiting my profile, and I look forward to exploring new possibilities and contributing to the exciting world of backend engineering!
+## Notable Projects
+- Whatsdown: A messaging application featuring facial recognition login
+- Tutoriza: A GenAI-enhanced student management system
+
+## Let's Connect
+I'm always open to collaborating on exciting projects or discussing innovative ideas in tech. Feel free to reach out:
+
+- Email: moises@michelow.cl
+- LinkedIn: [linkedin.com/in/moisesmichelow](https://www.linkedin.com/in/moisesmichelow/)
+
+"Innovation is seeing what everybody has seen and thinking what nobody has thought." - Dr. Albert Szent-Györgyi
